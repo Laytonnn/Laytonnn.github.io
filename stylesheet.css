@@ -1,18 +1,19 @@
 h1 {
-    color: blue;
+    color: red;
     font-size: 60px;
     font-family:Georgia, 'Times New Roman', Times, serif;
-    text-align: Left;
+    text-align: center;
 
 }
 h2{ 
-    color: cyan;
+    color: indianred;
     font-size: 40px;
     font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
 
 }
 h3{
-    color: orange;
+    color: orangered;
     font-size: 30px;
     font-family: Georgia, 'Times New Roman', Times, serif;
 
@@ -24,6 +25,6 @@ p {
 
 }
 body {
-    background-color: lightgray;
+    background-color: white;
 
 }
